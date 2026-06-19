@@ -14,7 +14,7 @@ I enjoy building intelligent systems, exploring new AI technologies, and contrib
 🛠️ Tech Stack
 Languages: Python,C,html,CSS
 
-🛠️Tools
+🛠️Tools:
 Github
 VS code
 Jupyter Notebook
