@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi 👋, I'm Tamanna
+🤖 AI & Machine Learning Student
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+I enjoy building intelligent systems, exploring new AI technologies, and contributing to open-source projects.
 
-<!--
-**tamanna-saini123/tamanna-saini123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 AI & Machine Learning Student
+🌱 Currently learning Deep Learning, Generative AI and Machine learning
+🔬 Interested in Computer Vision, NLP, and Reinforcement Learning
+📊 Love working with data and building predictive models
+💡 Always exploring new AI research and tools
+📫 Reach me: tamannasaini33@gmail.com
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages: Python,C,html,CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️Tools
+Github
+VS code
+Jupyter Notebook
+
+🎯Current Learning Goals
+Machine Learning Fundamentals
+Data Structures & Algorithms
+NumPy & Pandas
+Problem Solving with Python
+Model Deployment
+Computer Vision Applications
+Natural Language Processing
