@@ -3,7 +3,7 @@ Hi 👋, I'm Tamanna
 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 I enjoy building intelligent systems, exploring new AI technologies, and contributing to open-source projects.
 
-🚀 About Me
+🚀 About Me:
 🎓 AI & Machine Learning Student
 🌱 Currently learning Deep Learning, Generative AI and Machine learning
 🔬 Interested in Computer Vision, NLP, and Reinforcement Learning
@@ -19,7 +19,7 @@ Github
 VS code
 Jupyter Notebook
 
-🎯Current Learning Goals
+🎯Current Learning Goals:
 Machine Learning Fundamentals
 Data Structures & Algorithms
 NumPy & Pandas
